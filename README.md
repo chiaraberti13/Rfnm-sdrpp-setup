@@ -1,7 +1,17 @@
-# RFNM SDR++ Setup
+<p align="center"><img src="assets/banner.svg" alt="RFNM SDR++ Setup" width="100%"></p>
 
-This repository provides an **automated installation script** that sets up **SDR++** with full **RFNM hardware support**.
-It downloads, builds, and installs all required dependencies, ensuring that SDR++ runs with the **RFNM source module** and the **Soapy RFNM driver** enabled.
+<p align="center"><a href="README.md">🇬🇧 English</a> · <a href="README.it.md">🇮🇹 Italiano</a></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-maintained-F2C94C?style=flat-square" alt="Maintained">
+  <img src="https://img.shields.io/badge/category-SDR%20%26%20RADIO-22D3EE?style=flat-square" alt="SDR and radio">
+  <img src="https://img.shields.io/badge/stack-Shell-8B949E?style=flat-square" alt="Shell">
+  <img src="https://img.shields.io/badge/licence-MIT-2EA043?style=flat-square" alt="MIT">
+</p>
+
+> Automated installation of SDR++ with native RFNM and SoapySDR hardware support.
+
+<p align="center"><a href="SECURITY.md">Security</a> · <a href="LICENSE">Licence</a> · <a href="https://github.com/chiaraberti13/Rfnm-sdrpp-setup/issues">Report an issue</a></p>
 
 ---
 
